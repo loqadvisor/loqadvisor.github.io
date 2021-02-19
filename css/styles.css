@@ -18694,8 +18694,8 @@ body {
 }
 
 .bg-gradient-primary-to-secondary {
-  background-color: #0061f2;
-  background-image: linear-gradient(135deg, #0061f2 0%, rgba(105, 0, 199, 0.8) 100%);
+  background-color: #9ccded;
+  background-image: linear-gradient(135deg, #9ccded 0%, #73706b);
 }
 
 .bg-gray-100 {
@@ -20636,7 +20636,7 @@ body {
   font-weight: bold;
 }
 .navbar-marketing .navbar-brand img {
-  height: 1rem;
+  height: 40px;
 }
 .navbar-marketing .navbar-brand svg {
   height: 1rem;
